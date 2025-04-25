@@ -1,3 +1,25 @@
+/******************************************************************************
+ * @file mainwindow.cpp
+ * @brief Main window for the application
+ * @author Martin C. Foster
+ * @date 2025-04-23 
+ * 
+ * @version 1.0
+ * @brief
+ * This file contains the implementation of the main window for the 
+ * application. It is responsible for handling user input and output,
+ * and for converting binary files to hexadecimal or BASIC format.  
+ * It provides the user interface for the application, including buttons for 
+ * selecting input and output files, and for converting binary files to 
+ * hexadecimal or BASIC format.
+ * 
+ * @section Revision History
+ * | Version | Date       | Author            | Description                              |
+ * |---------|------------|-------------------|--------------------------------
+ * | 1.0     | 2025-04-25 | Martin C. Foster  | Added some comments.
+ * 
+ ********************************************************************************/
+ 
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 
