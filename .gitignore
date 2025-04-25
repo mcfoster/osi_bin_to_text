@@ -1,0 +1,5 @@
+# Ignore build files
+cmake-build-debug/
+build/
+.idea/
+*.o
